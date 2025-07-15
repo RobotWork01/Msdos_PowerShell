@@ -1,14 +1,9 @@
 # Msdos_PowerShell
 
-### ダウンロード手順:サクラエディタGREP検索
+### ダウンロード手順:Msdos_PowerShell
 :shipit:下記のコマンドを実行してください。:octocat:<br/>
 ```
-git clone https://github.com/RobotWork01/Msdos_PowerShell/サクラエディタGREP検索
+git clone https://github.com/RobotWork01/Msdos_PowerShell
 
 ```
-### ダウンロード手順:PowerShell_全置換
-:wink:下記のコマンドを実行してください。:cherry_blossom:<br/>
-```
-git clone https://github.com/RobotWork01/Msdos_PowerShell/PowerShell_全置換
 
-```
