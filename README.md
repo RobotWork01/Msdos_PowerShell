@@ -7,7 +7,7 @@ git clone https://github.com/RobotWork01/Msdos_PowerShell/サクラエディタG
 
 ```
 ### ダウンロード手順:PowerShell_全置換
-:shipit:下記のコマンドを実行してください。<br/>
+:wink:下記のコマンドを実行してください。<br/>
 ```
 git clone https://github.com/RobotWork01/Msdos_PowerShell/PowerShell_全置換
 
